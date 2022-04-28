@@ -1,0 +1,9 @@
+apiVersion: secopctl.io/v1alpha1
+kind: secopConfig
+
+metadata:
+  name: github
+
+github:
+  - url: https://github.com/Alan-Jino
+    token: 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
